@@ -7,6 +7,6 @@ A microservice that provides a json response in the following format:
 ```
 
 ## About
-This project is one of the required projects for the "Back End Development and APIs" course on (Free Code Camp)[freecodecamp.org].
+This project is one of the required projects for the "Back End Development and APIs" course on [Free Code Camp](freecodecamp.org).
 
 Solution by Barnz (barnz.dev, github.com/incinn, @_wrnz).
